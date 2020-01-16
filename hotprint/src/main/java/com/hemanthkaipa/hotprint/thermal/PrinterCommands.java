@@ -1,4 +1,4 @@
-package com.example.myapplication.printer.thermal;
+package com.hemanthkaipa.hotprint.thermal;
 
 public class PrinterCommands {
     public static final int TIME_BETWEEN_TWO_PRINT = 150;

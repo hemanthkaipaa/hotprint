@@ -1,11 +1,11 @@
-package com.example.myapplication.printer.thermal.textparser;
+package com.hemanthkaipa.hotprint.thermal.textparser;
 
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 
-import com.example.myapplication.printer.thermal.Printer;
-import com.example.myapplication.printer.thermal.PrinterCommands;
+import com.hemanthkaipa.hotprint.thermal.Printer;
+import com.hemanthkaipa.hotprint.thermal.PrinterCommands;
 
 
 public class PrinterTextParserImg implements PrinterTextParserElement {

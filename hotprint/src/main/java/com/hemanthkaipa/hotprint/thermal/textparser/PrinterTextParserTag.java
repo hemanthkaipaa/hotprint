@@ -1,4 +1,4 @@
-package com.example.myapplication.printer.thermal.textparser;
+package com.hemanthkaipa.hotprint.thermal.textparser;
 
 import java.util.Hashtable;
 

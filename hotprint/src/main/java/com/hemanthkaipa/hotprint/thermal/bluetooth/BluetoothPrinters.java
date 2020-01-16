@@ -1,10 +1,8 @@
-package com.example.myapplication.printer.thermal.bluetooth;
+package com.hemanthkaipa.hotprint.thermal.bluetooth;
 
 
-import android.bluetooth.BluetoothClass;
-
-import com.example.myapplication.bluetooth.BluetoothDeviceSocketConnexion;
-import com.example.myapplication.bluetooth.BluetoothDevices;
+import com.hemanthkaipa.hotprint.bluetooth.BluetoothDeviceSocketConnexion;
+import com.hemanthkaipa.hotprint.bluetooth.BluetoothDevices;
 
 
 public class BluetoothPrinters extends BluetoothDevices {

@@ -1,4 +1,4 @@
-package com.example.myapplication.bluetooth;
+package com.hemanthkaipa.hotprint.bluetooth;
 
 import android.bluetooth.BluetoothDevice;
 import android.bluetooth.BluetoothSocket;

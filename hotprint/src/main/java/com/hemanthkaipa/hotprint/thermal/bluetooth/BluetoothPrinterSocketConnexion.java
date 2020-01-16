@@ -1,10 +1,10 @@
-package com.example.myapplication.printer.thermal.bluetooth;
+package com.hemanthkaipa.hotprint.thermal.bluetooth;
 
 import android.bluetooth.BluetoothDevice;
 import android.graphics.Bitmap;
 
-import com.example.myapplication.bluetooth.BluetoothDeviceSocketConnexion;
-import com.example.myapplication.printer.thermal.PrinterCommands;
+import com.hemanthkaipa.hotprint.bluetooth.BluetoothDeviceSocketConnexion;
+import com.hemanthkaipa.hotprint.thermal.PrinterCommands;
 
 import java.io.IOException;
 import java.io.OutputStream;

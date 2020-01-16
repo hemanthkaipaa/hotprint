@@ -1,31 +1,22 @@
 package com.example.myapplication;
 
 import android.Manifest;
-import android.content.Intent;
 import android.content.pm.PackageManager;
-import android.net.Uri;
 import android.os.Bundle;
 
-import com.example.myapplication.printer.thermal.Printer;
-import com.example.myapplication.printer.thermal.bluetooth.BluetoothPrinters;
-import com.example.myapplication.printer.thermal.textparser.PrinterTextParserImg;
+
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
-import android.util.DisplayMetrics;
+
+import android.util.Printer;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
-
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.IOException;
-import java.io.InputStreamReader;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,6 +1,6 @@
-package com.example.myapplication.printer.thermal.textparser;
+package com.hemanthkaipa.hotprint.thermal.textparser;
 
-import com.example.myapplication.printer.thermal.PrinterCommands;
+import com.hemanthkaipa.hotprint.thermal.PrinterCommands;
 
 import java.util.Arrays;
 

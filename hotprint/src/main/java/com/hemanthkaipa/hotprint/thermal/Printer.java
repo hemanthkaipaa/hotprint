@@ -1,15 +1,15 @@
-package com.example.myapplication.printer.thermal;
+package com.hemanthkaipa.hotprint.thermal;
 
 import android.graphics.Bitmap;
 
-import com.example.myapplication.printer.thermal.bluetooth.BluetoothPrinterSocketConnexion;
-import com.example.myapplication.printer.thermal.textparser.PrinterTextParser;
-import com.example.myapplication.printer.thermal.textparser.PrinterTextParserBarCode;
-import com.example.myapplication.printer.thermal.textparser.PrinterTextParserColumn;
-import com.example.myapplication.printer.thermal.textparser.PrinterTextParserElement;
-import com.example.myapplication.printer.thermal.textparser.PrinterTextParserImg;
-import com.example.myapplication.printer.thermal.textparser.PrinterTextParserLine;
-import com.example.myapplication.printer.thermal.textparser.PrinterTextParserString;
+import com.hemanthkaipa.hotprint.thermal.bluetooth.BluetoothPrinterSocketConnexion;
+import com.hemanthkaipa.hotprint.thermal.textparser.PrinterTextParser;
+import com.hemanthkaipa.hotprint.thermal.textparser.PrinterTextParserBarCode;
+import com.hemanthkaipa.hotprint.thermal.textparser.PrinterTextParserColumn;
+import com.hemanthkaipa.hotprint.thermal.textparser.PrinterTextParserElement;
+import com.hemanthkaipa.hotprint.thermal.textparser.PrinterTextParserImg;
+import com.hemanthkaipa.hotprint.thermal.textparser.PrinterTextParserLine;
+import com.hemanthkaipa.hotprint.thermal.textparser.PrinterTextParserString;
 
 
 public class Printer {
